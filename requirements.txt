@@ -1,0 +1,6 @@
+unidecode
+requests
+pandas_ta
+nselib
+pandas
+urllib
